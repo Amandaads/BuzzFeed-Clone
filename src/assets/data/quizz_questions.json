@@ -46,6 +46,17 @@
           {"id": 1, "name":"O Terrivel", "alias":"A"},
           {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
         ]
+      },
+      {
+        "id":6,
+        "question": "Qual seu desejo ?",
+        "options":[
+          {"id": 1, "name":"Paz mundial", "alias":"B"},
+          {"id": 2, "name":"Igualdade as pessoas", "alias":"B"},
+          {"id": 3, "name":"Igualdade de Genero", "alias":"B"},
+          {"id": 4, "name":"Fim do preconceito", "alias":"B"},
+          {"id": 4, "name":"Dinheiro Infinito", "alias":"A"}
+        ]
       }
     ],
     "results":{
